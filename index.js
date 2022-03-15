@@ -42,7 +42,7 @@ substract(34, 23);
 add(3, 4);
 add(54, b);
 // Array<T>
-var arr2 = [123, 234, "Tamim"];
+var arr2 = [123, 234, "mahmud"];
 var arr = [123, 234, 456];
 var arr1 = ["123", "234", "456"];
 var id = 23;
